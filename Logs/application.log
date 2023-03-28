@@ -1,0 +1,407 @@
+2023-03-28 14:26:07 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 14:26:07 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 14:26:07 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 14:26:07 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 14:26:07 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 14:26:07 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 14:26:07 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 14:26:07 INFO  FileHandler:139 - Directoy Doesnt ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 14:26:07 INFO  FileHandler:150 - Directoy Created C:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 14:26:07 INFO  FileHandler:139 - Directoy Doesnt ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 14:26:08 INFO  FileHandler:150 - Directoy Created C:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 14:26:08 INFO  FileHandler:139 - Directoy Doesnt ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 14:26:08 INFO  FileHandler:150 - Directoy Created C:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 14:26:08 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 14:26:08 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 14:44:04 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 14:44:04 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 14:44:04 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 14:44:04 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 14:44:04 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 14:44:04 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 14:44:04 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 14:44:04 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 14:44:04 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 14:44:04 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 14:44:04 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 14:44:04 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 14:45:18 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 14:45:18 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 14:45:18 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 14:45:18 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 14:45:18 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 14:45:18 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 14:45:18 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 14:45:18 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 14:45:18 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 14:45:18 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 14:45:18 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 14:45:18 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 14:52:03 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 14:52:03 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 14:52:03 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 14:52:03 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 14:52:03 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 14:52:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 14:52:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 14:52:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 14:52:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 14:52:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 14:52:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 14:52:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 14:54:40 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 14:54:40 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 14:54:40 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 14:54:40 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 14:54:40 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 14:54:40 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 14:54:40 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 14:54:40 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 14:54:40 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 14:54:40 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 14:54:40 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 14:54:40 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 14:59:03 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 14:59:03 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 14:59:03 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 14:59:03 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 14:59:03 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 14:59:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 14:59:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 14:59:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 14:59:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 14:59:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 14:59:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 14:59:03 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 15:02:48 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 15:02:49 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 15:02:49 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 15:02:49 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 15:02:49 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 15:02:49 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 15:02:49 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 15:02:49 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 15:02:49 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 15:02:49 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 15:02:49 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 15:02:49 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 15:11:05 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 15:11:05 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 15:11:05 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 15:11:05 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 15:11:05 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 15:11:05 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 15:11:05 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 15:11:05 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 15:11:05 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 15:11:05 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 15:11:05 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 15:11:05 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 15:11:07 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 15:11:51 WARN  VersionDetector:326 - Error reading commands.properties, using local instead
+2023-03-28 15:12:19 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 15:12:19 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 15:14:53 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 15:14:53 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 15:14:53 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 15:14:53 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 15:14:53 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 15:14:53 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 15:14:53 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 15:14:53 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 15:14:53 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 15:14:53 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 15:14:53 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 15:14:53 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 15:14:55 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 15:14:57 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 15:14:57 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 15:20:57 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 15:20:57 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 15:20:57 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 15:20:57 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 15:20:57 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 15:20:57 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 15:20:57 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 15:20:57 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 15:20:57 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 15:20:57 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 15:20:57 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 15:20:57 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 15:20:59 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 15:21:01 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 15:21:01 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 15:21:18 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 15:21:18 INFO  WebDriverCommons:109 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 15:21:18 INFO  WebDriverSetup:186 - Implicit Wait Applied: 15 Secs
+2023-03-28 15:21:18 INFO  WebDriverCommons:115 - Page Load Time Out set PT4M
+2023-03-28 15:21:18 INFO  Hooks:36 - Base Setup is initialized 
+2023-03-28 15:21:19 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 15:21:19 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 15:21:19 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 15:21:19 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 15:21:19 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 15:21:24 INFO  WebDriverCommons:130 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 15:21:24 INFO  WebDriverCommons:246 - Waiting for visiblity of element
+2023-03-28 15:21:31 INFO  WebDriverCommons:248 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']
+2023-03-28 15:21:48 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-03-28 15:43:35 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 15:43:36 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 15:43:36 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 15:43:36 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 15:43:36 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 15:43:36 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 15:43:36 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 15:43:36 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 15:43:36 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 15:43:36 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 15:43:36 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 15:43:36 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 15:43:37 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 15:43:39 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 15:43:39 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 15:44:03 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 15:44:04 INFO  WebDriverCommons:109 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 15:44:04 INFO  WebDriverSetup:186 - Implicit Wait Applied: 15 Secs
+2023-03-28 15:44:04 INFO  WebDriverCommons:115 - Page Load Time Out set PT4M
+2023-03-28 15:44:04 INFO  Hooks:36 - Base Setup is initialized 
+2023-03-28 15:44:04 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 15:44:04 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 15:44:04 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 15:44:04 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 15:44:04 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 15:44:16 INFO  WebDriverCommons:130 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 15:44:16 INFO  WebDriverCommons:246 - Waiting for visiblity of element
+2023-03-28 15:44:24 INFO  WebDriverCommons:248 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']
+2023-03-28 15:46:28 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 15:46:28 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 15:46:28 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 15:46:28 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 15:46:28 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 15:46:28 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 15:46:28 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 15:46:28 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 15:46:28 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 15:46:28 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 15:46:28 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 15:46:28 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 15:46:29 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 15:46:31 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 15:46:31 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 15:46:43 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 15:46:43 INFO  WebDriverCommons:109 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 15:46:43 INFO  WebDriverSetup:186 - Implicit Wait Applied: 15 Secs
+2023-03-28 15:46:43 INFO  WebDriverCommons:115 - Page Load Time Out set PT4M
+2023-03-28 15:46:43 INFO  Hooks:36 - Base Setup is initialized 
+2023-03-28 15:46:43 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 15:46:43 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 15:46:43 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 15:46:43 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 15:46:43 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 15:46:51 INFO  WebDriverCommons:130 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 15:46:51 INFO  WebDriverCommons:246 - Waiting for visiblity of element
+2023-03-28 15:46:58 INFO  WebDriverCommons:248 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']
+2023-03-28 16:19:52 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 16:19:52 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 16:19:52 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 16:19:52 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 16:19:52 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 16:19:52 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 16:19:52 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 16:19:52 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 16:19:52 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 16:19:52 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 16:19:52 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 16:19:52 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 16:19:54 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 16:20:38 WARN  VersionDetector:326 - Error reading commands.properties, using local instead
+2023-03-28 16:20:49 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 16:20:49 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 16:21:59 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 16:22:00 INFO  WebDriverCommons:109 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 16:22:00 INFO  WebDriverSetup:186 - Implicit Wait Applied: 15 Secs
+2023-03-28 16:22:00 INFO  WebDriverCommons:115 - Page Load Time Out set PT4M
+2023-03-28 16:22:00 INFO  Hooks:36 - Base Setup is initialized 
+2023-03-28 16:22:00 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 16:22:00 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 16:22:00 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 16:22:00 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 16:22:00 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 16:22:08 INFO  WebDriverCommons:130 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 16:22:08 INFO  WebDriverCommons:246 - Waiting for visiblity of element
+2023-03-28 16:22:15 INFO  WebDriverCommons:248 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']
+2023-03-28 16:52:14 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 16:52:14 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 16:52:14 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 16:52:14 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 16:52:14 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 16:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 16:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 16:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 16:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 16:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 16:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 16:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 16:52:17 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 16:52:19 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 16:52:19 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 16:52:55 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 16:52:56 INFO  WebDriverCommons:109 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 16:52:56 INFO  WebDriverSetup:186 - Implicit Wait Applied: 15 Secs
+2023-03-28 16:52:56 INFO  WebDriverCommons:115 - Page Load Time Out set PT4M
+2023-03-28 16:52:56 INFO  Hooks:36 - Base Setup is initialized 
+2023-03-28 16:52:56 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 16:52:56 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 16:52:56 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 16:52:56 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 16:52:56 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 16:53:10 INFO  WebDriverCommons:130 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 16:53:10 INFO  WebDriverCommons:246 - Waiting for visiblity of element
+2023-03-28 16:53:23 INFO  WebDriverCommons:248 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']
+2023-03-28 16:56:42 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 16:56:42 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 16:56:42 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 16:56:42 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 16:56:42 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 16:56:42 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 16:56:42 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 16:56:42 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 16:56:42 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 16:56:42 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 16:56:42 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 16:56:42 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 16:56:44 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 16:56:46 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 16:56:46 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 16:56:59 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 16:57:01 INFO  WebDriverCommons:109 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 16:57:01 INFO  WebDriverSetup:186 - Implicit Wait Applied: 15 Secs
+2023-03-28 16:57:01 INFO  WebDriverCommons:115 - Page Load Time Out set PT4M
+2023-03-28 16:57:01 INFO  Hooks:36 - Base Setup is initialized 
+2023-03-28 16:57:02 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 16:57:02 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 16:57:02 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 16:57:02 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 16:57:02 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 16:57:17 INFO  WebDriverCommons:130 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 16:57:17 INFO  WebDriverCommons:246 - Waiting for visiblity of element
+2023-03-28 16:57:27 INFO  WebDriverCommons:248 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']
+2023-03-28 17:52:14 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 17:52:14 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 17:52:14 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 17:52:14 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 17:52:14 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 17:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 17:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 17:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 17:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 17:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 17:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 17:52:14 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 17:52:18 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 17:53:04 WARN  VersionDetector:326 - Error reading commands.properties, using local instead
+2023-03-28 17:53:09 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 17:53:10 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 17:53:46 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 17:53:47 INFO  WebDriverCommons:109 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 17:53:47 INFO  WebDriverSetup:186 - Implicit Wait Applied: 15 Secs
+2023-03-28 17:53:47 INFO  WebDriverCommons:115 - Page Load Time Out set PT4M
+2023-03-28 17:53:47 INFO  Hooks:36 - Base Setup is initialized 
+2023-03-28 17:53:47 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 17:53:47 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 17:53:47 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 17:53:47 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 17:53:47 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 17:53:58 INFO  WebDriverCommons:130 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 17:53:58 INFO  WebDriverCommons:246 - Waiting for visiblity of element
+2023-03-28 17:54:05 INFO  WebDriverCommons:248 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']
+2023-03-28 17:58:01 INFO  GlobalConfiguration:100 - Global Config over ridden :
+2023-03-28 17:58:01 INFO  GlobalConfiguration:87 - environment : staging
+2023-03-28 17:58:01 INFO  GlobalConfiguration:102 - environment : staging
+2023-03-28 17:58:01 INFO  GlobalConfiguration:92 - browser : chrome
+2023-03-28 17:58:01 INFO  GlobalConfiguration:104 - browser : chrome
+2023-03-28 17:58:01 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 17:58:01 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 17:58:01 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 17:58:01 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 17:58:01 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 17:58:01 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 17:58:01 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 17:58:04 INFO  BaseSetup:69 - BaseSetup Already Initialized
+2023-03-28 17:58:07 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 17:58:07 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 17:58:36 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 17:58:36 INFO  WebDriverCommons:109 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 17:58:36 INFO  WebDriverSetup:186 - Implicit Wait Applied: 15 Secs
+2023-03-28 17:58:36 INFO  WebDriverCommons:115 - Page Load Time Out set PT4M
+2023-03-28 17:58:36 INFO  Hooks:36 - Base Setup is initialized 
+2023-03-28 17:58:37 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 17:58:37 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 17:58:37 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 17:58:37 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 17:58:37 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 17:58:49 INFO  WebDriverCommons:130 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 17:58:49 INFO  WebDriverCommons:246 - Waiting for visiblity of element
+2023-03-28 17:58:57 INFO  WebDriverCommons:248 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']
+2023-03-28 20:10:20 INFO  GlobalConfiguration:99 - Global Config over ridden :
+2023-03-28 20:10:20 INFO  GlobalConfiguration:86 - environment : staging
+2023-03-28 20:10:20 INFO  GlobalConfiguration:101 - environment : staging
+2023-03-28 20:10:20 INFO  GlobalConfiguration:91 - browser : chrome
+2023-03-28 20:10:20 INFO  GlobalConfiguration:103 - browser : chrome
+2023-03-28 20:10:20 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Logs
+2023-03-28 20:10:20 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report
+2023-03-28 20:10:20 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Report\Screenshots
+2023-03-28 20:10:20 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads
+2023-03-28 20:10:20 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Downloads
+2023-03-28 20:10:20 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Uploads\
+2023-03-28 20:10:20 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Feature
+2023-03-28 20:10:24 INFO  BaseSetup:63 - BaseSetup Already Initialized
+2023-03-28 20:11:09 WARN  VersionDetector:326 - Error reading commands.properties, using local instead
+2023-03-28 20:11:17 INFO  WebDriverManager:966 - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+2023-03-28 20:11:17 INFO  WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\Mohideen Abdulla\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-28 20:11:44 INFO  WebDriverSetup:170 - Driver Initialized
+2023-03-28 20:11:45 INFO  WebDriverCommons:123 - Implicit Wait Turned On --- Wait : PT15S
+2023-03-28 20:11:45 INFO  WebDriverSetup:187 - Implicit Wait Applied: 15 Secs
+2023-03-28 20:11:45 INFO  WebDriverCommons:91 - Page Load Time Out set PT4M
+2023-03-28 20:11:45 INFO  Hooks:39 - Base Setup is initialized 
+2023-03-28 20:11:45 INFO  FileHandler:135 - Directoy ExistC:\Users\Mohideen Abdulla\eclipse-workspace\ZInfo\Testdata\zinfo-urls.json
+2023-03-28 20:11:45 INFO  JSONFileHandler:45 - parsed object : {"zinfo":{"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}}
+2023-03-28 20:11:45 INFO  JSONFileHandler:46 - JSON Parsed
+2023-03-28 20:11:45 INFO  JSONFileHandler:56 - JSON Object : {"main":"https:\/\/insent-staging10.firebaseapp.com\/fe-assignment"}
+ Key zinfo
+2023-03-28 20:11:45 INFO  JSONFileHandler:56 - JSON Object : https://insent-staging10.firebaseapp.com/fe-assignment
+ Key main
+2023-03-28 20:12:11 INFO  WebDriverCommons:102 - Current URL : https://insent-staging10.firebaseapp.com/fe-assignment
+2023-03-28 20:12:11 INFO  WebDriverCommons:115 - Waiting for visiblity of element
+2023-03-28 20:12:23 INFO  WebDriverCommons:117 - Element visible of elementBy.xpath: //iframe[@id='insent-iframe']

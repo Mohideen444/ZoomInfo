@@ -1,0 +1,106 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-03-28T14:40:23.872Z",
+        "before": [
+          {
+            "output": [
+              "scenario_start_timestamp: 2023-03-28T20:10:24.161286600"
+            ],
+            "result": {
+              "duration": 81242897800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zoominfo.setup.Hooks.init(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Open and perform initial validations in the chatbot",
+        "description": "",
+        "id": "zoom-info-chatbot-testing;open-and-perform-initial-validations-in-the-chatbot",
+        "after": [
+          {
+            "output": [
+              "scenario_end_timestamp: 2023-03-28T20:12:38.941087100"
+            ],
+            "result": {
+              "duration": 6219989000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zoominfo.setup.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 37804879700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user navigates to the assignment webpage",
+            "match": {
+              "location": "com.zoominfo.stepdefinition.ChatBotSteps.user_navigates_to_the_assignment_webpage()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 289997500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.zoominfo.setup.Hooks.attach_screenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15183944000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks the chatbot",
+            "match": {
+              "location": "com.zoominfo.stepdefinition.ChatBotSteps.user_clicks_the_chatbot()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 999100,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.zoominfo.setup.Hooks.attach_screenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@chat"
+          },
+          {
+            "name": "@staging"
+          }
+        ]
+      }
+    ],
+    "name": "zoom info chatbot testing",
+    "description": "",
+    "id": "zoom-info-chatbot-testing",
+    "keyword": "Feature",
+    "uri": "file:Feature/zoom-chat.feature",
+    "tags": []
+  }
+]
