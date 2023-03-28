@@ -35,7 +35,7 @@
 <a href="#"><span class="badge badge-primary">ZInfo - Cucumber Report</span></a>
 </li>
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">Mar 28, 2023 08:10:17 pm</span></a>
+<a href="#"><span class="badge badge-primary">Mar 28, 2023 10:30:27 pm</span></a>
 </li>
 </ul>
 </div>
@@ -71,7 +71,7 @@
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-exclamation-circle"></i></a>
 <ul id="status-toggle" class="dropdown-menu dropdown-md p-v-0">
-<a class="dropdown-item" status="pass" href="#"><span>Pass</span><span class="status success"></span></a>
+<a class="dropdown-item" status="fail" href="#"><span>Fail</span><span class="status danger"></span></a>
 <div class="dropdown-divider"></div>
 <a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
 </ul>
@@ -85,25 +85,25 @@
 </ul>
 </div>    <div class="test-list-wrapper scrollable">
       <ul class="test-list-item">
-        <li class="test-item"  status="pass" test-id="1"
+        <li class="test-item"  status="fail" test-id="1"
           author=""
           tag=""
           device="">
           <div class="test-detail">
             <p class="name">zoom info chatbot testing</p>
             <p class="text-sm">
-              <span>8:10:24 pm</span> / <span>00:02:21:081</span>
-              <span class="badge pass-bg log float-right">Pass</span>
+              <span>10:30:34 pm</span> / <span>00:01:52:577</span>
+              <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
           <div class="test-contents d-none">
 <div class="detail-head">
 <div class="p-v-10">
 <div class="info">
-<h5 class="test-status text-pass">zoom info chatbot testing</h5>
-<span class='badge badge-success'>03.28.2023 8:10:24 pm</span>
-<span class='badge badge-danger'>03.28.2023 8:12:45 pm</span>
-<span class='badge badge-default'>00:02:21:081</span>
+<h5 class="test-status text-fail">zoom info chatbot testing</h5>
+<span class='badge badge-success'>03.28.2023 10:30:34 pm</span>
+<span class='badge badge-danger'>03.28.2023 10:32:27 pm</span>
+<span class='badge badge-default'>00:01:52:577</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -115,14 +115,14 @@
   <div class="card">
     <div class="card-header" role="tab">
       <div class="card-title">
-        <div class="node" id="2"><span class="badge log pass-bg mr-2">Pass</span>Open and perform initial validations in the chatbot</div>
+        <div class="node" id="2"><span class="badge log fail-bg mr-2">Fail</span>Open and perform initial validations in the chatbot</div>
       </div>
     </div>
-        <div class="collapse">
+        <div class="">
           <div class="card-body">
               <div class="step pass-bg" title="BEFORE">
                 <span>com.zoominfo.setup.Hooks.init(io.cucumber.java.Scenario)</span>
-      <div>scenario_start_timestamp: 2023-03-28T20:10:24.161286600
+      <div>scenario_start_timestamp: 2023-03-28T22:30:34.541912300
       </div>
       <div>
       </div>
@@ -132,14 +132,24 @@
       <div>
       </div>
               </div>
-              <div class="step pass-bg" title="com.zoominfo.stepdefinition.ChatBotSteps.user_clicks_the_chatbot()">
+              <div class="step fail-bg" >
+                <span>And user verifies the welcome message</span>
+      <div>Step undefined
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.zoominfo.stepdefinition.ChatBotSteps.user_clicks_the_chatbot()">
                 <span>When user clicks the chatbot</span>
-      <div>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" >
+                <span>Then the chat window opens with the welcome message</span>
+      <div>Step skipped
       </div>
               </div>
               <div class="step pass-bg" title="AFTER">
                 <span>com.zoominfo.setup.Hooks.tearDown(io.cucumber.java.Scenario)</span>
-      <div>scenario_end_timestamp: 2023-03-28T20:12:38.941087100
+      <div>scenario_end_timestamp: 2023-03-28T22:32:23.658227900
       </div>
       <div>
       </div>
@@ -170,7 +180,7 @@
 <li class="test-item">
 <div class="test-detail">
 <span class="meta">
-<span class='badge log pass-bg'>1</span>
+<span class='badge log badge-danger'>1</span>
 </span>
 <p class="name">@chat</p>
 <p class="duration text-sm">1 tests</p>
@@ -178,7 +188,7 @@
 <div class="test-contents d-none">
 <div class="info">
 <h4>@chat</h4>
-<span status="pass" class='badge log pass-bg'>1 passed</span>
+<span status="fail" class='badge log badge-danger'>1 failed</span>
 </div>
 <table class='table table-sm mt-4'>
 <thead>
@@ -189,9 +199,9 @@
 </tr>
 </thead>
 <tbody>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>20:10:24 pm</td>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>22:30:34 pm</td>
 <td>
 <a href="#" class="linked" test-id='1' id='2'>Open and perform initial validations in the chatbot</a>
 <div class="">
@@ -206,7 +216,7 @@
 <li class="test-item">
 <div class="test-detail">
 <span class="meta">
-<span class='badge log pass-bg'>1</span>
+<span class='badge log badge-danger'>1</span>
 </span>
 <p class="name">@staging</p>
 <p class="duration text-sm">1 tests</p>
@@ -214,7 +224,7 @@
 <div class="test-contents d-none">
 <div class="info">
 <h4>@staging</h4>
-<span status="pass" class='badge log pass-bg'>1 passed</span>
+<span status="fail" class='badge log badge-danger'>1 failed</span>
 </div>
 <table class='table table-sm mt-4'>
 <thead>
@@ -225,9 +235,9 @@
 </tr>
 </thead>
 <tbody>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>20:10:24 pm</td>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>22:30:34 pm</td>
 <td>
 <a href="#" class="linked" test-id='1' id='2'>Open and perform initial validations in the chatbot</a>
 <div class="">
@@ -252,25 +262,25 @@
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Started</p>
-<h3>Mar 28, 2023 08:10:17 pm</h3>
+<h3>Mar 28, 2023 10:30:27 pm</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Ended</p>
-<h3>Mar 28, 2023 08:12:46 pm</h3>
+<h3>Mar 28, 2023 10:32:27 pm</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0 text-pass">Features Passed</p>
-<h3>1</h3>
+<h3>0</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0 text-fail">Features Failed</p>
-<h3>0</h3>
+<h3>1</h3>
 </div></div>
 </div>
 </div>
@@ -286,12 +296,12 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'>
-<b>1</b> features passed
+<div><small data-tooltip='0%'>
+<b>0</b> features passed
 </small>
 </div>
 <div>
-<small data-tooltip='0%'><b>0</b> features failed,
+<small data-tooltip='100%'><b>1</b> features failed,
 <b>0</b> skipped, <b data-tooltip='0%'>0</b> others
 </small>
 </div>
@@ -309,9 +319,9 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'><b>1</b> scenarios passed</small></div>
+<div><small data-tooltip='0%'><b>0</b> scenarios passed</small></div>
 <div>
-<small data-tooltip='0%'><b>0</b> scenarios failed,
+<small data-tooltip='100%'><b>1</b> scenarios failed,
 <b>0</b> skipped, <b data-tooltip='%'>0</b> others
 </small>
 </div>
@@ -329,10 +339,10 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'><b>4</b> steps passed</small></div>
+<div><small data-tooltip='50%'><b>3</b> steps passed</small></div>
 <div>
-<small data-tooltip='0%'><b>0</b> steps failed,
-<b>0</b> skipped, <b data-tooltip='%'>0</b> others
+<small data-tooltip='16%'><b>1</b> steps failed,
+<b>2</b> skipped, <b data-tooltip='%'>0</b> others
 </small>
 </div>
 </div>
@@ -348,7 +358,7 @@
 </div></div>
 <script>
 var timeline = {
-"zoom info chatbot testing":141.081
+"zoom info chatbot testing":112.577
 };
 </script>
 <div class="row">
@@ -359,19 +369,19 @@ var timeline = {
 <thead><tr class="bg-gray"><th>Name</th><th>Passed</th><th>Failed</th><th>Skipped</th><th>Others</th><th>Passed %</th></tr></thead><tbody>
 <tr>
 <td>@chat</td>
+<td>0</td>
 <td>1</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>100%</td>
+<td>0%</td>
 </tr>
 <tr>
 <td>@staging</td>
+<td>0</td>
 <td>1</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>100%</td>
+<td>0%</td>
 </tr>
 </tbody>
 </table></div>
@@ -382,21 +392,21 @@ var timeline = {
 <script>
 var statusGroup = {
 parentCount: 5,
-passParent: 1,
-failParent: 0,
+passParent: 0,
+failParent: 1,
 warningParent: 0,
 skipParent: 0,
 childCount: 5,
-passChild: 1,
-failChild: 0,
+passChild: 0,
+failChild: 1,
 warningChild: 0,
 skipChild: 0,
 infoChild: 0,
 grandChildCount: 5,
-passGrandChild: 4,
-failGrandChild: 0,
+passGrandChild: 3,
+failGrandChild: 1,
 warningGrandChild: 0,
-skipGrandChild: 0,
+skipGrandChild: 2,
 infoGrandChild: 0,
 eventsCount: 5,
 };

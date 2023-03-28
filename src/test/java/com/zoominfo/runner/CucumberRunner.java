@@ -11,8 +11,6 @@ import com.zoominfo.setup.BaseSetup;
 import java.io.IOException;
 
 @CucumberOptions(plugin = {
-        "json:target/cucumber/cucumber.json",
-        "json:ReportCucumber/cucumber.json",
         "html:target/selenium-reports",
         "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
         features = {"Feature"},
