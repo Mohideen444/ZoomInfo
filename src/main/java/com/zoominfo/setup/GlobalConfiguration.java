@@ -7,8 +7,8 @@ import com.zoominfo.enums.Environment;
 import com.zoominfo.enums.OS;
 
 public class GlobalConfiguration {
-    private int wait_time = 15;
-    private int explicit_wait_time = 240;
+    private int wait_time = 10;
+    private int explicit_wait_time = 20;
     protected String environment;
     private String browser;
     protected Environment env_enum;

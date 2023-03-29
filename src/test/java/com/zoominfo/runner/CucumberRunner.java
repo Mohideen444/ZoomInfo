@@ -16,7 +16,7 @@ import java.io.IOException;
         features = {"Feature"},
         glue = {"com.zoominfo"},
         
-        tags = "@chat and @staging",
+        tags = "@chat",
 
         monochrome = true,
         dryRun = false

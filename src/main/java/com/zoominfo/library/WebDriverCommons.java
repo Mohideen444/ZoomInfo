@@ -284,6 +284,12 @@ public class WebDriverCommons {
     public boolean isElementNull(WebElement element) {
         return element == null;
     }
+    
+    public void javascriptExecutor(String js_script, WebElement element) {
+        JavascriptExecutor executor = (JavascriptExecutor) driver;
+        executor.executeScript(js_script, element);
+
+    }
 
     // Exception Methods
 

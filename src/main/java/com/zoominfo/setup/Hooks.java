@@ -53,7 +53,7 @@ public class Hooks {
     public void tearDown(Scenario scenario) {
         scenario.log("scenario_end_timestamp: " + LocalDateTime.now());
         System.out.println("After Method");
-        WebDriverSetup.getInstance().quitWebDriver();
+        //WebDriverSetup.getInstance().quitWebDriver();
 
     }
 
