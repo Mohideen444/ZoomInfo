@@ -6,7 +6,7 @@
       <class name="com.zoominfo.runner.CucumberRunner">
         <methods>
           <include name="tearDown"/>
-          <include name="runScenario" invocation-numbers="0"/>
+          <include name="runScenario" invocation-numbers="2"/>
           <include name="tearDownClass"/>
           <include name="startup"/>
           <include name="setUpClass"/>

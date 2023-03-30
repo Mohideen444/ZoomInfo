@@ -15,6 +15,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class WebDriverSetup{
 	
+	//All the webdriver related configurations were made here
+	
 	private  String browser;
 	private  int implicit_wait;
 	private  int explicit_wait;
@@ -28,7 +30,7 @@ public class WebDriverSetup{
 	private GlobalPaths globalPaths = new GlobalPaths();
     String download_path = globalPaths.path_to_downloads;
 
-    protected WebDriver getDriver() {
+    public WebDriver getDriver() {
         return driver;
     }
     
@@ -103,7 +105,7 @@ public class WebDriverSetup{
     	}
     }
  	private void initializeWebDriver(String browser)
-   	{	String driver_path;
+   	{	//String driver_path;
    		switch (browser) 
    		{
    			case "chrome":

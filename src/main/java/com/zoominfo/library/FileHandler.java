@@ -13,7 +13,12 @@ import com.zoominfo.library.FileHandler.FileHandlerException.FileIsNotPresent;
 
 import java.io.*;
 
+
 public class FileHandler {
+	
+	// File Handler class created for handling all type of files. 
+	//Created some common methods like reading a file, creating and deleting a directory
+	
 	protected File file;
 	static Logger log = LoggerFactory.getLogger(FileHandler.class);
 	static Marker fatal = MarkerFactory.getMarker("FATAL");

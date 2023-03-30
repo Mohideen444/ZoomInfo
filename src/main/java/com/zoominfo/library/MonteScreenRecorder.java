@@ -14,6 +14,7 @@ import static org.monte.media.VideoFormatKeys.*;
 
 public class MonteScreenRecorder implements IScreenRecorder {
 
+	//Screen Recorder class which records the execution with 1920 * 1080 orientation
     File file;
     ScreenRecorder screenRecorder;
 

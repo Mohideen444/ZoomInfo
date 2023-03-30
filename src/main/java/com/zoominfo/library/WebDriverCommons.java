@@ -13,8 +13,9 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 
-
 public class WebDriverCommons {
+	
+	//Common webdriver functionalities are maintained here
 
     WebDriver driver;
     private static int implicit_wait;
@@ -290,6 +291,62 @@ public class WebDriverCommons {
         executor.executeScript(js_script, element);
 
     }
+    
+    public void openURLInNewTab(String url, int wait) {
+        //driver.findElement(By.cssSelector("body")).sendKeys(Keys.CONTROL +"t");
+    	//driver.switchTo().window(tabs.get(1));
+    	//ArrayList<String> tabs = new ArrayList<String> (driver.getWindowHandles());
+    	driver.switchTo().newWindow(WindowType.TAB);
+        driver.get(url);
+        waitForUrlToBe(url, wait);
+    }
+    
+    public String switchToMainWindow() {
+        ArrayList<String> tabs = new ArrayList<String> (driver.getWindowHandles());
+        driver.switchTo().window(tabs.get(0));
+        String url = driver.getCurrentUrl();
+        return url;
+    }
+    
+    public WebElement getElementContainsInnerText(String search, List<WebElement> elements) throws NoElementInList {
+        Actions builder = new Actions(driver);
+        throwExceptionIfListIsEmpty(elements);
+//   		builder.moveToElement(elements.get(elements.size()-1)).perform();
+        for (WebElement element : elements) {
+            String inner_text;
+            inner_text = element.getText();
+            log.info("Contains inner_text:" + inner_text + "search:" + search);
+            if (inner_text.contains(search)) {
+                return element;
+            }
+        }
+        log.info("No Element's Inner Text Matched");
+        return null;
+    }
+    
+    public List<WebElement> findElements(By locator) throws NoElementInList {
+        List<WebElement> elements;
+        elements = driver.findElements(locator);
+        throwExceptionIfListIsEmpty(elements);
+        printEverythingInList(elements);
+        return elements;
+    }
+    
+
+    public boolean isListEmpty(List<?> list) {
+        return list.size() == 0;
+    }
+
+    public void printEverythingInList(List<?> list) {
+        if (!isListEmpty(list)) {
+            log.debug("List Count:" + list.size());
+            for (Object object : list) {
+                log.debug("Element in List" + object.toString());
+            }
+        } else
+            log.debug("List is empty");
+    }
+
 
     // Exception Methods
 
@@ -306,6 +363,15 @@ public class WebDriverCommons {
             throw new ElementNotVisibleException("Element is not Visible" + locator);
         else
             log.debug("element is Visible" + locator);
+    }
+    
+
+    public void throwExceptionIfListIsEmpty(List<?> list) throws NoElementInList {
+        if (isListEmpty(list))
+            throw new NoElementInList("List is empty");
+        else
+            printEverythingInList(list);
+
     }
 
     public void throwExceptionIfElementIsNull(WebElement element) {
@@ -328,6 +394,15 @@ public class WebDriverCommons {
     public class UnableToFindElementException extends WebDriverCommonsException {
 
         public UnableToFindElementException(String ex_message) {
+            super(ex_message);
+            // TODO Auto-generated constructor stub
+        }
+
+    }
+    
+    public class NoElementInList extends WebDriverCommonsException {
+
+        public NoElementInList(String ex_message) {
             super(ex_message);
             // TODO Auto-generated constructor stub
         }

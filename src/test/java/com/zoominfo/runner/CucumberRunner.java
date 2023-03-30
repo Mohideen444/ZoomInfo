@@ -10,11 +10,14 @@ import org.testng.annotations.BeforeClass;
 import com.zoominfo.setup.BaseSetup;
 import java.io.IOException;
 
+
+//Runner file to execute the cucumber tests
+
 @CucumberOptions(plugin = {
         "html:target/selenium-reports",
         "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
         features = {"Feature"},
-        glue = {"com.zoominfo"},
+        glue = {"com.zoominfo.stepdefinition"},
         
         tags = "@chat",
 

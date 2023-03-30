@@ -1,8 +1,10 @@
-package com.zoominfo.setup;
+package com.zoominfo.stepdefinition;
 
+import com.zoominfo.setup.BaseSetup;
 import com.zoominfo.setup.BaseSetup.BaseSetupAlreadyInitialized;
 import com.zoominfo.setup.GlobalConfiguration.EmptyGlobalConfigException;
 import com.zoominfo.setup.GlobalConfiguration.UnInitialzedGlobalConfig;
+import com.zoominfo.setup.WebDriverSetup;
 
 import io.cucumber.java.*;
 
@@ -14,7 +16,8 @@ import java.io.IOException;
 import java.time.Instant;
 import java.time.LocalDateTime;
 
-
+// Hooks are blocks of code that run before and after each scenario
+// precondition and teardown of scenarios maintained here
 
 public class Hooks {
     private Logger logger = LoggerFactory.getLogger(Hooks.class);
@@ -53,7 +56,7 @@ public class Hooks {
     public void tearDown(Scenario scenario) {
         scenario.log("scenario_end_timestamp: " + LocalDateTime.now());
         System.out.println("After Method");
-        //WebDriverSetup.getInstance().quitWebDriver();
+        WebDriverSetup.getInstance().quitWebDriver();
 
     }
 

@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.events.WebDriverListener;
 import org.slf4j.*;
 
-
+//Listener class to customize the logs
 
 public class WebDriverListner implements WebDriverListener{
 	

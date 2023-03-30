@@ -13,6 +13,10 @@ import com.zoominfo.library.FileHandler.FileHandlerException.FileIsNotPresent;
 
 
 public class JSONFileHandler {
+	
+	//This library class created using "json.simple" library from google.
+	//The following are common functions to handle the json file
+	
 	private FileReader fileReader = null;
 	private Object parsed_object = null;
 	

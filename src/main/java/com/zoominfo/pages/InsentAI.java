@@ -2,6 +2,7 @@ package com.zoominfo.pages;
 
 
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import org.json.simple.parser.ParseException;
 import org.openqa.selenium.By;
@@ -16,6 +17,9 @@ import com.zoominfo.setup.GlobalConfiguration;
 import com.zoominfo.setup.WebDriverSetup;
 
 public class InsentAI {
+	
+	//The insent.ai page is divided into 3 page fragments based on the functionality
+	//InsentAI - All the page level functionalities except the chatbot and conversations will be maintained here
 	
 	//Locators
 	By frame = By.xpath("//iframe[@id='insent-iframe']");
@@ -76,6 +80,17 @@ public class InsentAI {
 		log.info("Welcome text on the chatbot : " + text);
 		return text;
 	}
-		
+	
+	public void goToNewPage(String url) throws InterruptedException {
+		commons.openURLInNewTab(url,wait);
+		log.info("New tab opened for the URL : " + url);
+		log.info("waiting for 10 seconds....");
+		TimeUnit.SECONDS.sleep(10);
+	}
+	
+	public String switchToBasetab() {
+		String current_url = commons.switchToMainWindow();
+		return current_url;
+	}
 	
 }

@@ -7,6 +7,13 @@ import com.zoominfo.enums.Environment;
 import com.zoominfo.enums.OS;
 
 public class GlobalConfiguration {
+	
+	// Important Framework variables are configured here. 
+	/*
+	 * This configuration is builded to initiate the run from IDE/commandline
+	 * We can execute this framework on different environments, browsers and os.
+	 */
+	
     private int wait_time = 10;
     private int explicit_wait_time = 20;
     protected String environment;

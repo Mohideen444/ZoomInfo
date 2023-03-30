@@ -7,6 +7,9 @@ import com.zoominfo.enums.ProjectStructure;
 
 public class GlobalPaths {
 
+	//Maintaining all the folder paths here and translating the file separator based on OS.
+	//Need of translator - Windows OS uses "\" (backslash) while Linux use "/" (forward slash) as file separator.
+	
     private GlobalConfiguration globalConfiguration = GlobalConfiguration.getInstance();
     private String file_separator = translateFileSeparator();
 

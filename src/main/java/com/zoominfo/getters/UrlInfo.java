@@ -10,11 +10,17 @@ import com.zoominfo.setup.GlobalConfiguration;
 import com.zoominfo.setup.GlobalPaths;
 
 public class UrlInfo {
+	
+	
+	//Reading test data from the json files using jsonFileHandler library under com.zoominfo.library package
+	
 	GlobalPaths globalPaths = new GlobalPaths();
 	
 	String zinfo_url_path = ProjectStructure.pathToProject.toString()
 			+globalPaths.getFile_separator()
 			+ProjectStructure.testdata.toString()
+			+globalPaths.getFile_separator()
+			+globalPaths.getEnv()
 			+globalPaths.getFile_separator()
 			+"zinfo-urls.json";
 

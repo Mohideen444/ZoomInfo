@@ -31,4 +31,14 @@ public class ChatbotPropSteps {
 	    }
 	}
 	
+	@When("user closes the chatbot")
+	public void the_user_closes_the_chatbot() {
+		try {
+			chatbotProp.close_chatbox();
+	} catch (Throwable e) {
+		e.printStackTrace();
+		Assert.fail();
+	}
+	}
+	
 }

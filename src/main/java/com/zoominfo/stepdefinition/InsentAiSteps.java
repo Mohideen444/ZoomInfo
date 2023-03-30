@@ -78,5 +78,25 @@ public class InsentAiSteps {
 	    }
 	}
 	
+	@When("user goes to new {string} tab")
+	public void user_goes_to_new_tab(String url) {
+		try {
+			insentAIPage.goToNewPage(url);
+	    } catch (Throwable e) {
+	    	e.printStackTrace();
+	    	Assert.fail();
+	    }
+	}
 	
+	
+	@And("the user returns to chatbot")
+	public void the_user_returns_to_chatbot() {
+		try {
+			insentAIPage.switchToBasetab();
+			insentAIPage.switchToChatFrame();
+	    } catch (Throwable e) {
+	    	e.printStackTrace();
+	    	Assert.fail();
+	    }
+	}
 }

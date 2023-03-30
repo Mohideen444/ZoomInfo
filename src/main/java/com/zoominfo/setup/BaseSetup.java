@@ -16,6 +16,8 @@ import java.awt.*;
 import java.io.IOException;
 
 public class BaseSetup {
+	
+	//Initializer package - All the framework setups are initialized here
 
     private GlobalPaths globalPaths;
     private FileHandler fileHandler = null;
